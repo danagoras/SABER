@@ -1,6 +1,6 @@
 # SABER
 My version of the SABER round 3 implementation in javascript.
-This implementation is the IND-CPA encryption with 3 parts ( Key Generation, Encryption and Decryption ) of SABER and uses Visual Code Live Server to run on chromium bases browsers
+This implementation is the IND-CPA encryption with 3 parts ( Key Generation, Encryption and Decryption ) of SABER and uses Visual Code Live Server to run on chromium bases browsers such as Brave.
 The main code can be found in mySABER.js and helping functions(random number generation, binomial distribution) are located in prng.js(https://www.hindawi.com/journals/scn/2018/9846168/) and discrete.js(https://github.com/jacobmenick/sampling) respectively.
 
 HOW TO RUN:
